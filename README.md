@@ -99,19 +99,6 @@ Wi-Fi robot with MPU6050 telemetry and low-latency WebSocket/HTTP remote control
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 Open to robotics, autonomous systems, embedded and firmware opportunities, and always up for a good collab.
