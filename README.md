@@ -99,6 +99,14 @@ Wi-Fi robot with MPU6050 telemetry and low-latency WebSocket/HTTP remote control
 
 ---
 
+
+<div align="center">
+
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 Open to robotics, autonomous systems, embedded and firmware opportunities, and always up for a good collab.
